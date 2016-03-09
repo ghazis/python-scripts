@@ -7,6 +7,7 @@ Only one script so far. The script is called file_utility.py which depends on th
 Purpose: Enables easy file/directory access and management.
 
 Current features:
+
 1. View current files/folders in working directory
 
 2. Quick traversal through filesystem
@@ -17,6 +18,7 @@ Current features:
 
 To Do: 
 Modify File.py module and add definitions for:
+
 1. File/directory cloning
 
 2. Quick file/directory search on filesystem
